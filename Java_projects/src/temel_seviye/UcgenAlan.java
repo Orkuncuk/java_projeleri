@@ -14,7 +14,6 @@ public class UcgenAlan {
         double alan = Math.sqrt(u * (u - kenara) * (u - kenarb) * (u - kenarc));
         System.out.println("Üçgenin alanı: " + alan);
         input.close();
-
         
     }
     

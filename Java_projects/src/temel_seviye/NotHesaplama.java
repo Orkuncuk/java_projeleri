@@ -16,7 +16,7 @@ public class NotHesaplama {
         kimya = input.nextInt();
 
         System.out.println("Turkce notunuz: ");
-        turkce = input.nextInt();
+        turkce = input.nextInt();é
 
         System.out.println("Tarih notunuz: ");
         tarih = input.nextInt();

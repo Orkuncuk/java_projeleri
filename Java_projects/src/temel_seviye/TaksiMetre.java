@@ -1,6 +1,6 @@
 package temel_seviye;
 import java.util.Scanner;
-public class ders {
+public class TaksiMetre {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Mesafeyi giriniz: ");

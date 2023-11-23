@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class KdvHesaplama {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.print("Tutarı giriniz: ");
         double tutar = input.nextDouble();
         double kdvOran = tutar > 1000 ? 0.08 : 0.18;
         double kdvTutar = tutar * kdvOran;

@@ -1,6 +1,6 @@
 package temel_seviye;
 import java.util.Scanner;
-public class odev {
+public class UcgenAlan {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double kenara, kenarb, kenarc;

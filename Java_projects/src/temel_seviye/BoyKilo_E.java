@@ -1,7 +1,7 @@
 package temel_seviye;
 import java.util.Scanner;
 
-public class ödev {
+public class BoyKilo_E {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         double weight, height, bmi;

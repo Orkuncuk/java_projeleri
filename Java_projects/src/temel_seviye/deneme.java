@@ -80,6 +80,7 @@ public class deneme {
       // no grades were entered
       System.out.println("No grades were entered");
     }
+    input.close();
   }
 }
 

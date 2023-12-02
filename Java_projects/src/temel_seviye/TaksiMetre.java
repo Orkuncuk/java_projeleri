@@ -11,6 +11,7 @@ public class TaksiMetre {
         double tutar = acılıs + (mesafe * km);
         double sonuc = tutar > 20 ? tutar: 20;
         System.out.println(sonuc);
+        input.close();
 
     }
     

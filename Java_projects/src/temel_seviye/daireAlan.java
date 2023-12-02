@@ -10,6 +10,7 @@ public class daireAlan {
         a = input.nextFloat();
         alan = (float)(Math.PI*(r*r)*a)/360;
         System.out.printf("the area of the sector is: %f",alan);
+        input.close();
 
     }
     

@@ -1,3 +1,4 @@
+package temel_seviye;
 public class ödev {
     public static void main(String[] args){
         int var1 = 5;

@@ -1,7 +1,7 @@
 package temel_seviye;
 import java.util.Scanner;
 
-public class ödev2 {
+public class KullanıcıGirisi {
     public static void main(String[] args) {
         String username, password;
 
